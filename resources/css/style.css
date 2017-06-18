@@ -12,16 +12,34 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-size: 32px;
+}
+
+a {
+  color: white;
+  font-size: 18px;
+
+}
+
 .topHeader {
   background-image: url(../img/the-flatiron-building.png);
 }
 
 .midHeader {
   background-image: url(../img/the-flatiron-building.png);
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
 }
 
 .footer {
   background-color: dimgray;
   color: white;
   font-size: 11px;
+}
+
+.nav {
+  font-size: 18px;
+  color: white;
 }
